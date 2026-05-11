@@ -1,0 +1,4 @@
+streamlit
+pandas
+plotly
+# sqlite3는 파이썬 기본 내장 라이브러리이므로 설치할 필요가 없습니다.
