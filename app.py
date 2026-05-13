@@ -9,7 +9,7 @@ import numpy as np
 # 1. 환경 설정 및 상수 정의
 # --------------------------------------------------
 st.set_page_config(
-    page_title="전국 공공도서관 분석 대시보드 (SQL 기반)",
+    page_title="전국 공공도서관 분석 대시보드",
     page_icon="📚",
     layout="wide"
 )
